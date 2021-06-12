@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Himesama "Goumon" no Jikan desu
 - One Punch man
 - Hagane no Renkinjutushi
+- Dead Dead Demon's Dededede Destruction
